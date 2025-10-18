@@ -49,3 +49,8 @@ To open n8n, you must see the n8n database, which uses SQLite and can be accesse
 /Users/justicegaines/.n8n/database.sqlite
 
 Look for any workflows that start with the following keyword - "Catalyst-Automation"
+
+Refer to ~/.claude/context/projects/catalyst-automation/n8n/README.md
+
+On my behalf, you added an n8n directory in this project that includes docs, scripts, and workflows,
+which allows you to edit the JSON directly using method 2
